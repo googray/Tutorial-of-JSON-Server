@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia officiis explicabo tempore itaque esse. Blanditiis voluptates dignissimos voluptate incidunt culpa excepturi voluptatum, id, natus nostrum tempore totam iure sed vitae.",
+      "likes": 30
+    },
+    {
+      "id": 2,
+      "title": "How to be a net Ninja",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia officiis explicabo tempore itaque esse. Blanditiis voluptates dignissimos voluptate incidunt culpa excepturi voluptatum, id, natus nostrum tempore totam iure sed vitae.",
+      "likes": 15
+    },
+    {
+      "id": 3,
+      "title": "New Vue course comming soon!",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia officiis explicabo tempore itaque esse. Blanditiis voluptates dignissimos voluptate incidunt culpa excepturi voluptatum, id, natus nostrum tempore totam iure sed vitae.",
+      "likes": 20
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefe Vue or React?",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
